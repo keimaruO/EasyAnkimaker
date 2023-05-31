@@ -1,5 +1,3 @@
-#version 0.1.1 bug fix
-
 import tkinter as tk
 import re
 import webbrowser
@@ -9,8 +7,7 @@ from tkinter import filedialog, messagebox, StringVar
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 import itertools
-import tkinter.ttk as ttk
-from tkinter import font
+
 def search_srt(file_name, keyword1, keyword2, keyword3, search_range):
     result = []
 
@@ -93,18 +90,7 @@ class App(tk.Tk):
         self.search_word3_entry.bind("<Return>", self.focus_next)
 
         tk.Button(input_frame, text="Search", command=self.search_word, font=(self.font, 11)).grid(row=4, column=1, pady=10)
-        self.output_text.tag_config("link", foreground="blue", underline=1)
-        self.output_text.bind("<Button-1>", self.on_click)
 
-        self.selected_results = []  # ユーザーによって選択された結果を保存するためのリスト
-
-        self.load_label = tk.Label(input_frame, text="Now Loading...", font=(self.font, 11), fg="red", bg="white")
-
-        # ユーザーが選択した結果をHTML形式で出力するボタンを追加
-        self.output_html_button = tk.Button(input_frame, text="Output HTML", command=self.output_html, font=(self.font, 11))
-        self.output_html_button.grid(row=5, column=1, pady=10)
-        
-        self.bind("<Configure>", self.on_resize)
         # 出力
         output_frame = tk.Frame(self, bg="white")
         output_frame.pack(padx=50, pady=10, fill="both", expand=True)
