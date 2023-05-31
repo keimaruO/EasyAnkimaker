@@ -3,10 +3,7 @@
 特殊なsrtファイルを利用して超高速でyoutubeのを利用したAnkiのデータ作成を行うスクリプトです。
 
 
-
-
-
-
+Ankiに特化した変換済みsrtモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main
 
 
 https://github.com/keimaruO/YTSceneSearch この字幕検索アプリを応用してAnki用に効率的にアプリを作り替えました。
