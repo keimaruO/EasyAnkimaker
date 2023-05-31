@@ -1,3 +1,5 @@
+#　このコードはsrt形式のものを秒数形式のタイムコードに変換するプログラムです
+
 import re
 
 def convert_timecode(timecode):
