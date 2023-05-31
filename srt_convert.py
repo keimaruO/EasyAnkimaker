@@ -1,4 +1,4 @@
-#　このコードはsrt形式のものを秒数形式のタイムコードに変換するプログラムです
+#　このコードはsrt形式のものを秒数形式のタイムコードに変換するプログラムです、ホロライブ以外の字幕でやりたいときは下記のコードを参考にして欲しい。
 
 import re
 
@@ -7,10 +7,10 @@ def convert_timecode(timecode):
     total_seconds = int(hours) * 3600 + int(minutes) * 60 + int(seconds)
     return total_seconds
 
-with open("G:/Scripts/推し英単語/29_桃鈴ねね.srt", "r", encoding="utf-8") as input_file:
+with open("G:/Scripts/推し英単語/input.srt", "r", encoding="utf-8") as input_file:
     lines = input_file.readlines()
 
-with open("G:/Scripts/推し英単語/output_.srt", "w", encoding="utf-8") as output_file:
+with open("G:/Scripts/推し英単語/output.srt", "w", encoding="utf-8") as output_file:
     for line in lines:
         match = re.match(r"(\d+:\d+:\d+,\d+) --> (\d+:\d+:\d+,\d+)", line)
         if match:
