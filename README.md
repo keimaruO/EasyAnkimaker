@@ -1,1 +1,3 @@
 # EasyAnkimaker
+
+特殊なsrtファイルを利用して超高速でyoutubeのを利用したAnkiのデータ作成を行うスクリプトです。
