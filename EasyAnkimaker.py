@@ -53,7 +53,7 @@ def search_srt(file_name, keyword1, keyword2, keyword3, search_range):
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("YTSceneSearch")
+        self.title("EasyAnkimaker")
         self.geometry("900x550")
         self.font = "Meiryo UI"
         self.configure(bg="white")
