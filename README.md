@@ -3,6 +3,8 @@
 特殊なsrtファイルを利用して超高速でyoutubeのを利用したAnkiのデータ作成を行うスクリプトです。
 
 
+※READNEは明日帰ってきたら追記します(でももう導入から使い方までいけると思う)
+
 Ankiに特化した変換済みsrtモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main
 
 
