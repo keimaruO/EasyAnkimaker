@@ -9,21 +9,40 @@ Ankiっていう暗記カードアプリとYouTube再生可能にAnkiの拡張�
 
 
 # 導入方法
+# Ankiに拡張機能をいれる
 
 まずはじめにAnkiの拡張機能を入れてもらいます
 https://ankiweb.net/shared/info/2055492159
 
-導入方法(動画)　※15秒のところまででOK
+導入方法(動画)
 https://www.youtube.com/watch?v=N0dBJWcWZLM
-
+　※　15秒のところまででOK
+ 
 動画は英語ですが問題なくいけると思います。
+
+# ブラウザに拡張機能をいれる
 
 次にブラウザの拡張機能をいれてもらいます
 
 Firefox https://addons.mozilla.org/en-US/firefox/addon/youtube2anki/
+
 Chrome https://chrome.google.com/webstore/detail/youtube2anki/boebbbjmbikafafhoelhdjeocceddngi
 
-僕はFifefoxでせつめ
+　※　僕はFifefoxで説明しますがChromeでも拡張機能の起動方法が違う以外は同じようにできるはず
+
+# ブラウザに拡張機能をいれる
+
+無事追加できたら、https://youtu.be/UmkmzlzpEC0 このリンクを押して下さい
+
+
+
+YouTubeを開いて右下の・・・を押して、字幕を右側に全部表示させます
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/6bbf9784-e402-45cf-8411-785711db41d9)
+
+次に拡張機能を起動させます、ブラウザの右上にある拡張機能のパズルのアイコンをおし
+
+
 
 
 最終的にこうなればOKです
