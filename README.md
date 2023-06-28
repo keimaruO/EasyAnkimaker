@@ -18,11 +18,12 @@ https://www.youtube.com/watch?v=N0dBJWcWZLM
 
 動画は英語ですが問題なくいけると思います。
 
-入れたら
+次にブラウザの拡張機能をいれてもらいます
 
+Firefox https://addons.mozilla.org/en-US/firefox/addon/youtube2anki/
+Chrome https://chrome.google.com/webstore/detail/youtube2anki/boebbbjmbikafafhoelhdjeocceddngi
 
-
-
+僕はFifefoxでせつめ
 
 
 最終的にこうなればOKです
