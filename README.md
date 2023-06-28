@@ -1,6 +1,6 @@
-# EasyAnkimaker
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/40d11228-aeb7-47d4-877d-f35b5eedea69)# EasyAnkimaker
 
-推しの声で英単語を覚れるようにするツールです
+推しの声で英単語を覚れるように問題を超効率的に作るツールです(現在はホロライブのメンバーのみ)
 
 Ankiっていう暗記カードアプリとYouTube再生可能にAnkiの拡張機能を利用します
 
@@ -29,3 +29,61 @@ https://github.com/keimaruO/YTSceneSearch この字幕検索アプリを応用�
 
 参考にしたサイト　すげー助かった
 https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
+
+最終的にこうなればOKです
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/597463e2-065d-4e16-8582-b716b465ce0b)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/3f5f9da8-ab67-4aec-8f8b-fa6ccd439785)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/24be1d1b-ed1d-4d90-b9e4-187c85753947)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/8521b513-873f-4302-be0f-66deabe1e1b5)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/db7d16ba-d779-4bc5-be14-798d8348d0d3)
+
+
+表面のテンプレート
+                      <br>
+
+                      <span></span>
+                      <br>
+
+                      {{text}}
+                      <br>
+                      <br>
+                      <br>
+                      <iframe
+                          width="560"
+                          height="315"
+                          src="https://www.youtube.com/embed/{{id}}?start={{time}}&end={{nextTime}}&autoplay=1"
+                          frameborder=0
+                            autoplay=1
+                      />
+
+                      <br>
+                      <span>{{time}} - {{nextTime}}</span>
+                      <br>
+                      <span></span>
+
+
+裏面のテンプレート
+                      <br>
+
+                      <span></span>
+                      <br>
+
+                      {{answer}}
+                      <br>
+
+書式
+
+              .card {
+                font-family: futura-pt,sans-serif,sans-serif;
+                font-size: 20px;
+                text-align: center;
+                color: black;
+                background-color: #e9e9e9;
+              }
+
+              span {
+                font-size: 0.9rem;
+                color: #3c3c3c;
+              }
+
+                    
