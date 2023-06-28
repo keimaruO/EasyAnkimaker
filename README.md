@@ -38,10 +38,43 @@ Chrome https://chrome.google.com/webstore/detail/youtube2anki/boebbbjmbikafafhoe
 
 YouTubeを開いて右下の・・・を押して、字幕を右側に全部表示させます
 
-![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/6bbf9784-e402-45cf-8411-785711db41d9)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/e2651483-49e1-484e-a213-fd6e05ab1acd)
 
-次に拡張機能を起動させます、ブラウザの右上にある拡張機能のパズルのアイコンをおし
+次に、青い時間表記が表示されている場合は︙を押して非表示にして下さい
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/cfd7fd83-aa4b-4486-8349-2f4025e52b04)
+
+次に拡張機能を起動させます。ブラウザの右上にある拡張機能のパズルのアイコンを押してYouTube2Ankiを開きます
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/8ea09c61-58ab-4a6d-86ba-ab51727eb073)
+
+この画面が出たら、Noneを押してから一番上のをクリックして下さい
+次に、下にあるExportを押して下さい
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/c7e5fa46-71e4-4bc0-880e-c939a667e160)
+
+次に、上のSendを押します。するとAnkiに追加されます
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/80f5c796-30fe-4667-977e-ceade503e3a6)
+
+このように追加されてるはずです。
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/37340b90-2396-463d-811e-b516bde6fe3f)
+クリックして、開始を押すとしっかり機能してるはず
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/d4f4e207-84f4-405e-b38e-a3767d103803)
+
+# 編集を加える
+
+次に、左下にある編集を押すとこの編集画面になるはず
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/79a52487-88e5-4f35-a0ac-d0ec97654980)
+
+次に、左上のフィールドを押して下さい
+初期はこう
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/91e7a44f-3eb7-4ae3-abc7-79797413a3c4)
+
+編集後はこうになるように、追加したり削除して画像と同じようにしてください。
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/5c3ced53-aa40-42d4-91dd-04342d375bde)
 
 
 
