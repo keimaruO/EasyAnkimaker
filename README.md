@@ -119,13 +119,10 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
 
 裏面のテンプレート
 
-                      <br>
-
-                      <span></span>
-                      <br>
-
-                      {{answer}}
-                      <br>
+                  <br>
+                  <span></span>
+                  {{answer}}
+                  <br>
                     
 
 書式
