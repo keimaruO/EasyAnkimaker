@@ -150,6 +150,10 @@ Visual Studio Code https://miya-system-works.com/blog/detail/vscode-install/
 
 ※メモ帳みたいなやつ、プログラムを実行するのに必要
 
+このサイトでVisual Studio Codeの拡張機能を入れておいて下さい。
+
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
 Python https://prog-8.com/docs/python-env-win
 
 ※プログラミング言語。プログラムを動かすのに必要
@@ -166,24 +170,61 @@ Python https://prog-8.com/docs/python-env-win
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/74c91129-307c-4f71-bc7b-ad8790eae033)
 
-次に、Visual studio codeを起動して下さい。
+次に、Visual studio codeを起動してフォルダごとドラッグ・アンド・ドロップしてください。
+
+![Animation](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/07aa3a41-e9e6-4c92-bf99-f53041c59032)
+
+次に、先程ダウンロードしてきたフォルダのパス入力欄にcmdと入力してエンターを押します
+
+![Animation](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/14fc297c-38ff-4496-9233-de9f4408690a)
+
+下のをコピーして先程のコマンドラインに貼り付けてエンターを押して下さい。インストールが始まります、数分かかります。
+
+```
+pip install -r requirements.txt
+```
 
 
+こんな感じでSuccessfully installedと表示されたらインストールが終わりました。もう閉じておｋ
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/db254916-28da-46d9-b44e-ced5c2ed0085)
 
 
+次に、もう一度Visual Studio Codeの画面にもどり、EasyAnkimaker.pyを選択して▷を押します。これで字幕検索アプリが起動します
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/dfab8166-dfd3-4754-997d-8d59e9d579fb)
 
+Browseで先程ダウンロードした推しのモデルを選択します。
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/062ff87b-3441-4adb-ad51-409728a783e6)
 
+次に、検索のやり方ですが少し特殊です。下のを改変して作っているからです。少し読めばどうゆう仕組みか分かるはず、多分！
 
+<sub>ホロメンの配信で思い出せそうで思い出せないシーンを自分が覚えてる単語を複数個入力すればその該当シーンがでてくる確率がぐーんと上がるプログラム</sub>
 
+https://github.com/keimaruO/YTSceneSearch
 
+ま、基本的に３つの同じ単語を入れて検索すれば求めているシーン出るはず。
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/0dc8c9cf-e5e9-42ea-bfcd-666337fc5a3a)
 
+単語によってはめっちゃ検索結果がたくさん出ると思います。絞りたい場合はより求めている状況の単語をいれるというのでしょうか、、表現が難しいのですが、簡単な仕組みとしては、YouTubeの自動字幕をすべて結合して、なにかワード検索を検索します。するともちろんそのワードがある場合はヒットしますよね？そのヒットした単語から一定の範囲を条件内でもう1つのワードを検索をする仕組みです。
 
+１つ前に貼ったURL(ホロメンの配信で思い出せそうで思い出せない...のやつ)をみるとちょい仕組みわかって、コツも書いあるから検索上手になるかも。
 
+# Anki用に形式変換
 
+画像のように検索でたとします。3行です。それをコピーします。
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/c408a913-5b2f-45bd-80d8-3c307ac1b896)
+
+そしてinput.txtに貼り付けます。
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/87d1ff8b-97ec-427e-bce5-eb99196bda2d)
+
+FormatToAnki.pyを実行します
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/a01f03c6-8334-418a-b55a-163607bcbd40)
 
 
 
