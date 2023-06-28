@@ -42,20 +42,20 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
                   <span></span>
                   <br>
 
-                  {{question}}
+                  {{text}}
                   <br>
                   <br>
                   <br>
                   <iframe
                       width="560"
                       height="315"
-                      src="https://www.youtube.com/embed/{{id}}?start={{start}}&end={{end}}&autoplay=1"
+                      src="https://www.youtube.com/embed/{{id}}?start={{time}}&end={{nextTime}}&autoplay=1"
                       frameborder=0
                         autoplay=1
                   />
 
                   <br>
-                  <span>{{start}} - {{end}}</span>
+                  <span>{{time}} - {{nextTime}}</span>
                   <br>
                   <span></span>
 
@@ -67,6 +67,7 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
                     
 
 書式
+
 
               .card {
                 font-family: futura-pt,sans-serif,sans-serif;
@@ -80,5 +81,4 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
                 font-size: 0.9rem;
                 color: #3c3c3c;
               }
-
-                    
+            
