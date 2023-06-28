@@ -144,7 +144,51 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
 
 # 該当シーンを探し方
 
-Ankiに特化した変換済みsrtモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main
+インストールするもの
+
+Visual Studio Code https://miya-system-works.com/blog/detail/vscode-install/
+
+※メモ帳みたいなやつ、プログラムを実行するのに必要
+
+Python https://prog-8.com/docs/python-env-win
+
+※プログラミング言語。プログラムを動かすのに必要
+
+ホロメンのモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main/
+
+※全員分DLしないでおk。推しのやつだけでおｋ
+
+次に、このプロジェクトをわかりやすいとこにダウンロードします。　※画像は現在のページの上部の部分です
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/3f85add1-39de-4941-9da0-a5cbee71ebba)
+
+解凍してね☆
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/74c91129-307c-4f71-bc7b-ad8790eae033)
+
+次に、Visual studio codeを起動して下さい。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 このサイトはAnki内でYouTube再生するための拡張機能の導入方法を説明しているサイトです。
 https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
