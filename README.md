@@ -61,13 +61,10 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
 
 裏面のテンプレート
-                      <br>
 
-                      <span></span>
-                      <br>
-
-                      {{answer}}
-                      <br>
+                      {{FrontSide}}
+                      <hr id=answer>
+                    
 
 書式
 
