@@ -142,7 +142,7 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
               }
             
 
-
+# 該当シーンを探し方
 
 Ankiに特化した変換済みsrtモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main
 このサイトはAnki内でYouTube再生するための拡張機能の導入方法を説明しているサイトです。
