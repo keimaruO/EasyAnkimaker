@@ -39,6 +39,7 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
 
 表面のテンプレート
+
                   <span></span>
                   <br>
 
