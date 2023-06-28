@@ -39,27 +39,25 @@ https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
 
 表面のテンプレート
-                      <br>
+                  <span></span>
+                  <br>
 
-                      <span></span>
-                      <br>
+                  {{question}}
+                  <br>
+                  <br>
+                  <br>
+                  <iframe
+                      width="560"
+                      height="315"
+                      src="https://www.youtube.com/embed/{{id}}?start={{start}}&end={{end}}&autoplay=1"
+                      frameborder=0
+                        autoplay=1
+                  />
 
-                      {{text}}
-                      <br>
-                      <br>
-                      <br>
-                      <iframe
-                          width="560"
-                          height="315"
-                          src="https://www.youtube.com/embed/{{id}}?start={{time}}&end={{nextTime}}&autoplay=1"
-                          frameborder=0
-                            autoplay=1
-                      />
-
-                      <br>
-                      <span>{{time}} - {{nextTime}}</span>
-                      <br>
-                      <span></span>
+                  <br>
+                  <span>{{start}} - {{end}}</span>
+                  <br>
+                  <span></span>
 
 
 裏面のテンプレート
