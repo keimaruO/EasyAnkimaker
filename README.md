@@ -63,6 +63,7 @@ Ankiアプリ本体に拡張機能をいれる方法(動画)
 
 
 
+
 YouTubeを開いて右下の・・・を押して、字幕を表示させます。　※英語表記なのでShow transcriptってなってます
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/e2651483-49e1-484e-a213-fd6e05ab1acd)
@@ -115,7 +116,7 @@ YouTubeを開いて右下の・・・を押して、字幕を表示させます�
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/836cd753-b6c6-41f6-b122-6b2721080e94)
 
-次に、左上にあるカードを押して下さい。
+次に、フィールドの右にあるカードを押して下さい。
 
 表面のテンプレート、裏面のテンプレート、書式をすべて下記のをコピペして上書きしちゃって下さい。
 
@@ -147,6 +148,8 @@ YouTubeを開いて右下の・・・を押して、字幕を表示させます�
 
                   <br>
                   <span></span>
+
+
                   {{answer}}
                   <br>
                     
@@ -156,6 +159,7 @@ YouTubeを開いて右下の・・・を押して、字幕を表示させます�
 
               .card {
                 font-family: futura-pt,sans-serif,sans-serif;
+
                 font-size: 20px;
                 text-align: center;
                 color: black;
