@@ -13,12 +13,15 @@ Ankiっていう暗記カードアプリとYouTube再生可能にAnkiの拡張�
 # 導入方法
 # Ankiに拡張機能をいれる
 
-まずはじめにAnkiの拡張機能を入れてもらいます
-https://ankiweb.net/shared/info/2055492159
+まずはじめにAnkiアプリ本体に拡張機能を入れてもらいます
 
-導入方法(動画)
-https://www.youtube.com/watch?v=N0dBJWcWZL
-　※15秒のところまででOK
+[AnkiConnect](https://ankiweb.net/shared/info/2055492159)
+
+Ankiアプリ本体に拡張機能をいれる方法(動画)
+
+[How to install AnkiConnect for Youtube2Anki @YouTube](https://youtu.be/N0dBJWcWZLM)
+
+※15秒のところまででOK
  
 動画は英語ですが問題なくいけると思います。
 
