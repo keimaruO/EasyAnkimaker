@@ -365,13 +365,14 @@ Wikipediaみたいに誰でも編集できるサイト　意味わからんア�
 てかスマホアプリ(3000円)であるけどおそらく、たぶん、同様に機能するはず、、、わからん！90%ぐらい？AppストアのAnki高すぎて試してない～
 ```
 
-[ko-fi](https://ko-fi.com/keimaru) もし寄付してださる神がおりましたらスマホで私が速攻試してきます！！目標500円以上もし超えればでさすがに自腹で買います。
+[ko-fi](https://ko-fi.com/keimaru) もし寄付してださる神がおりましたらスマホで私が速攻試してきます！！
+
+目標500円以上。もし超えたらでさすがに嬉しいので残額は自腹で払います。
 
 
 
 #　参考、元になったやつ
 
+AnkiでYouTube再生する方法 https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
-https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
-
-ホロ字幕検索アプリ　https://github.com/keimaruO/YTSceneSearch　※ま、これワイなんやけども、、
+ホロ字幕検索アプリ　https://github.com/keimaruO/YTSceneSearch
