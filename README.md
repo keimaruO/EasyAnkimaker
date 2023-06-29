@@ -18,7 +18,7 @@ https://ankiweb.net/shared/info/2055492159
 
 導入方法(動画)
 https://www.youtube.com/watch?v=N0dBJWcWZLM
-　※　15秒のところまででOK
+　※15秒のところまででOK
  
 動画は英語ですが問題なくいけると思います。
 
@@ -26,19 +26,20 @@ https://www.youtube.com/watch?v=N0dBJWcWZLM
 
 次にブラウザの拡張機能をいれてもらいます
 
-Firefox https://addons.mozilla.org/en-US/firefox/addon/youtube2anki/
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube2anki/)
 
-Chrome https://chrome.google.com/webstore/detail/youtube2anki/boebbbjmbikafafhoelhdjeocceddngi
+[Chrome](https://chrome.google.com/webstore/detail/youtube2anki/boebbbjmbikafafhoelhdjeocceddngi)
 
 　※　僕はFifefoxで説明しますがChromeでも拡張機能の起動方法が違う以外は同じようにできるはず
 
+
 # ブラウザに拡張機能をいれる
 
-無事追加できたら https://youtu.be/UmkmzlzpEC0 このリンクを開いて下さい　※この動画で説明していきます
+無事追加できたらこの[リンク](https://youtu.be/UmkmzlzpEC0)を開いて下さい　※この動画で説明していきます
 
 
 
-YouTubeを開いて右下の・・・を押して、字幕を表面させます。　※英語表記なのでShow transcriptってなってます
+YouTubeを開いて右下の・・・を押して、字幕を表示させます。　※英語表記なのでShow transcriptってなってます
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/e2651483-49e1-484e-a213-fd6e05ab1acd)
 
@@ -67,7 +68,7 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/d4f4e207-84f4-405e-b38e-a3767d103803)
 
-# 編集を加える
+# 編集する
 
 次に、左下にある編集を押すとこの編集画面になるはず
 
@@ -81,7 +82,7 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
 
 編集後はこう
 
-画像と同じになるように削除したり並び替えたりanswerを追加してください。
+画像と同じになるように削除したり、answerを追加してください。 ※下のオプションは何もいじらなくておｋ
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/5c3ced53-aa40-42d4-91dd-04342d375bde)
 
@@ -140,23 +141,30 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
                 font-size: 0.9rem;
                 color: #3c3c3c;
               }
+
             
+最終的にこうなってればおｋ
 
-# 該当シーンを探し方
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/b7c98c10-c4af-4a31-8691-fdb6f566c9b2)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/ea932fdf-66a9-4978-b4b0-fe1eb0461bd9)
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/69da11d3-e590-4600-ac18-635423c58d45)
 
+
+
+# シーンの探し方
 # インストールするもの
 
-Visual Studio Code https://miya-system-works.com/blog/detail/vscode-install/　※インストール方法のサイトです
+[Visual Studio Code](https://miya-system-works.com/blog/detail/vscode-install/)　※インストール方法が書いてあるサイトです
 
-VScodeの拡張機能　https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner　※このサイトでVisual Studio Codeの拡張機能を入れておいて下さい。
+[VScodeの拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)　※Visual Studio Codeのインストール後にこの拡張機能を入れておいて下さい。
 
-Python https://prog-8.com/docs/python-env-win　※インストール方法のサイトです
+[Python](https://prog-8.com/docs/python-env-win)　※インストール方法が書いてあるサイトです
 
-ホロメンのモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main/
+[ホロメンの字幕モデル](https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main/)　※全員分DLしないでおk。推しのやつだけでおｋ
 
-※全員分DLしないでおk。推しのやつだけでおｋ
 
-次に、このプロジェクトをわかりやすいとこにダウンロードします。　※画像は現在のページの上部の部分です
+
+次に、このプロジェクトをわかりやすいとこにダウンロードします。　※下の画像は現在のページの上部にあります
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/3f85add1-39de-4941-9da0-a5cbee71ebba)
 
@@ -172,14 +180,14 @@ Python https://prog-8.com/docs/python-env-win　※インストール方法の�
 
 ![Animation](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/14fc297c-38ff-4496-9233-de9f4408690a)
 
-下のをコピーして、コマンドライン(↑で出した黒い画面のやつ)に貼り付けてエンターを押して下さい。インストールが始まります、数分かかります。
+次に、コマンドライン(↑で出した黒い画面)に⬇にあるコマンドを貼り付けて、Enterを押して下さい。インストールが始まる、数分かかる。
 
 ```
 pip install -r requirements.txt
 ```
 
 
-こんな感じでSuccessfully installedと表示されたらインストールが終わりました。もう閉じておｋ
+こんな感じでSuccessfully installedと表示されたらインストールが終わりました。閉じておｋ
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/db254916-28da-46d9-b44e-ced5c2ed0085)
 
@@ -192,6 +200,7 @@ Browseで先程ダウンロードした推しのモデルを選択します。
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/062ff87b-3441-4adb-ad51-409728a783e6)
 
+
 次に、検索のやり方ですが少し特殊です。下のを改変して作っているからです。少し読めばどうゆう仕組みか分かるはず、多分！
 
 <sub>ホロメンの配信で思い出せそうで思い出せないシーンを自分が覚えてる単語を複数個入力すればその該当シーンがでてくる確率がぐーんと上がるプログラム</sub>
@@ -203,6 +212,7 @@ https://github.com/keimaruO/YTSceneSearch
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/0dc8c9cf-e5e9-42ea-bfcd-666337fc5a3a)
 
 単語によってはめっちゃ検索結果がたくさん出ると思います。絞りたい場合はより求めている状況の単語をいれるというのでしょうか、、表現が難しいのですが、簡単な仕組みとしては、YouTubeの自動字幕をすべて結合して、なにかワード検索を検索します。するともちろんそのワードがある場合はヒットしますよね？そのヒットした単語から一定の範囲を条件内でもう1つのワードを検索をする仕組みです。
+
 
 １つ前に貼ったURL(ホロメンの配信で思い出せそうで思い出せない...のやつ)をみるとちょい仕組みわかって、コツも書いあるから検索上手になるかも。
 
@@ -301,9 +311,9 @@ Wikipediaみたいに誰でも編集できるサイト　意味わからんア�
 
 
 
-#　参考にしたサイト　すげー助かった
+#　参考、元になったやつ
 
 
 https://blog.boxofmanga.com/youtube-subtitles-into-anki-flashcards/
 
-ホロ字幕検索アプリ　https://github.com/keimaruO/YTSceneSearch　※ま、これワイが作ったんやけども
+ホロ字幕検索アプリ　https://github.com/keimaruO/YTSceneSearch　※ま、これワイなんやけども、、
