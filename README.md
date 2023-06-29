@@ -12,7 +12,7 @@ Ankiっていう暗記カードアプリと、YouTube再生を可能にするAnk
 
 https://github.com/keimaruO/EasyAnkimaker/assets/91080250/61155a2b-1ada-4bc8-a2c6-86508a9adff9
 
-# 自分で好きなようにカスタムできます
+# 好きなようにカスタムできます
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/84e99a2e-60a3-4fd7-8fb3-595564d50c02)
 ```
