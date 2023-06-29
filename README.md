@@ -144,19 +144,13 @@ YouTubeを開いて右下の・・・を押して、字幕を表面させます�
 
 # 該当シーンを探し方
 
-インストールするもの
+# インストールするもの
 
-Visual Studio Code https://miya-system-works.com/blog/detail/vscode-install/
+Visual Studio Code https://miya-system-works.com/blog/detail/vscode-install/　※インストール方法のサイトです
 
-※メモ帳みたいなやつ、プログラムを実行するのに必要
+VScodeの拡張機能　https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner　※このサイトでVisual Studio Codeの拡張機能を入れておいて下さい。
 
-このサイトでVisual Studio Codeの拡張機能を入れておいて下さい。
-
-https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
-
-Python https://prog-8.com/docs/python-env-win
-
-※プログラミング言語。プログラムを動かすのに必要
+Python https://prog-8.com/docs/python-env-win　※インストール方法のサイトです
 
 ホロメンのモデル https://huggingface.co/datasets/keimaru/JP_Holo_Subtitles_Seconds_Format_for_Anki/tree/main/
 
@@ -178,7 +172,7 @@ Python https://prog-8.com/docs/python-env-win
 
 ![Animation](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/14fc297c-38ff-4496-9233-de9f4408690a)
 
-下のをコピーして先程のコマンドラインに貼り付けてエンターを押して下さい。インストールが始まります、数分かかります。
+下のをコピーして、コマンドライン(↑で出した黒い画面のやつ)に貼り付けてエンターを押して下さい。インストールが始まります、数分かかります。
 
 ```
 pip install -r requirements.txt
@@ -256,6 +250,7 @@ Ankiでインポートのやり方、画像の場所にインポートがあり�
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/45d63a11-2037-4461-aa69-77d0d4bd3c64)
 
 
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/3fd9c8e0-869c-49ec-b264-9280ac426637)
 
 
 
