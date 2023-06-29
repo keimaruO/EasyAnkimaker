@@ -336,7 +336,7 @@ Ankiでインポートのやり方、画像の場所にインポートがあり�
 
 基本編集でいじるのは上の4つになるはず～
 
-Ankiでエクスポートも`テキストファイルのノート(.txt)`を選択してエクスポートでバックアップもできます。インポートのやり方も同様に。
+Ankiでエクスポートも`テキストファイル形式のノート(.txt)`を選択してエクスポートでバックアップもできます。インポートのやり方も同様に。
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/0266adf9-3e2a-4011-8209-96309c98fbe2)
 
@@ -372,6 +372,7 @@ https://github.com/keimaruO/EN-JP
 
 
 > [Urban Dictionary](https://www.urbandictionary.com/define.php?term=Apple)
+
 
 
 Wikipediaみたいに誰でも編集できるサイト　意味わからんアッホみたいなｗ例文見て笑ったり
@@ -427,9 +428,9 @@ Wikipediaみたいに誰でも編集できるサイト　意味わからんア�
 てかスマホアプリ(3000円)でもAnkiあるけどおそらく、たぶん、PCと同様にYouTube再生が機能するはず、、、わからん！AppストアのAnki高すぎて試してない～
 ```
 
-[ko-fi](https://ko-fi.com/keimaru) もし寄付してださる神がおりましたらスマホで私が速攻試してきます～！！
+[ko-fi](https://ko-fi.com/keimaru) もし寄付してださる方がおりましたら私が速攻試してきます。
 
-目標500円以上。ちな100円から可能です。
+目標500円は以上。
 
 
 ちなワイのSNSのリンクも一応載せときます
