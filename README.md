@@ -222,9 +222,38 @@ https://github.com/keimaruO/YTSceneSearch
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/87d1ff8b-97ec-427e-bce5-eb99196bda2d)
 
-FormatToAnki.pyを実行します
+FormatToAnki.pyを実行します。すると一瞬でoutput.txtが作られるはず
 
 ![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/a01f03c6-8334-418a-b55a-163607bcbd40)
+
+
+output.txtを開くとAnkiでインポートできるように形式変換されます。
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/34354533-d687-4f90-9c43-64ee0ab1c23f)
+
+Ankiでインポートのやり方、画像の場所にインポートがあります。
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/f41b6392-691b-434e-b3f0-433cfe5102cb)
+
+そして先程変換したoutput.txtを選択します。
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/27d5c8a2-97fb-466d-8da3-d45f1b23e17e)
+
+この画面でどこに追加するかなどインポートのオプションを調整できます。
+
+追加したいデッキで選択しところに、output.txtの内容が追加されます～
+
+ま、特に今回はテストなので何も考えずそのままインポート押しておｋ　※画像では新しいデッキを作って、そのデッキを選択してるから名前違う～
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/d1cd8b2b-68ff-4af8-bdf1-99fd795225f0)
+
+お疲れ様でした！これでoutput.txtの内容が追加されて、正しく機能するはずです！
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/48235251-7d5e-4082-b2af-2ee46ed88d94)
+
+こんな感じ
+
+![image](https://github.com/keimaruO/EasyAnkimaker/assets/91080250/45d63a11-2037-4461-aa69-77d0d4bd3c64)
 
 
 
